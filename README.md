@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumeet</h1>
 <h3 align="center">I'm a passionate Frontend Developer with a love for crafting intuitive and visually appealing web applications. I thrive on solving problems, learning new technologies, and continuously improving my skills to create seamless digital experiences.</h3>
 
-- 🌱 I’m currently learning **Next.js, Node.js, AI Integration**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **- Open-source projects - Web development tutorials or challenges - Building cool apps using **React**, **Tailwind CSS**, **Javascript** and **Typescript****
 
