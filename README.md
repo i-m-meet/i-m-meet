@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Html, Css, Javascript, React, Tailwind CSS,**
 
-- 📫 How to reach me **sumeet.bx1@gmail.com**
+- 📫 How to reach me **sumeet.bx5@gmail.com**
 
 - ⚡ Fun fact **I love exploring the intersection of **frontend** and **backend** development, and I enjoy solving challenges in full-stack applications.**
 
